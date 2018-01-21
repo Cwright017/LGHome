@@ -12,6 +12,6 @@
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
-    "lgtv2": "git+https://github.com/hobbyquaker/lgtv2.git"
+    "lgtv2": "^1.4.1"
   }
 }
