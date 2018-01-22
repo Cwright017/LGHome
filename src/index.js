@@ -1,6 +1,6 @@
 const express = require('express');
 const lgtv = require("lgtv2")({
-    url: 'ws://192.168.1.108:3000'
+    url: 'ws://lgwebostv:3000'
 });
 const app = express();
 const bodyParser = require('body-parser');
